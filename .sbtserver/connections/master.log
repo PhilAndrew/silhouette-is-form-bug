@@ -1,0 +1,7 @@
+New log file opened at Thu Aug 20 12:04:21 CST 2015 by 6600@userpc
+Taking next connection to: 63245
+New client attempting to connect on port: 63246-63245
+  Address = /192.168.56.1:63245
+This client on port 63246 has uuid 65a01eb5-ddcb-4e9f-a3bf-905ccfbba50a configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-65a01eb5-ddcb-4e9f-a3bf-905ccfbba50a
+Taking next connection to: 63245
